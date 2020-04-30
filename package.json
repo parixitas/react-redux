@@ -10,7 +10,7 @@
     "bootstrap": "^4.2.1",
     "bootstrap-daterangepicker": "^3.0.3",
     "firebase": "^5.8.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "onefe-bootstrap-daterangepicker": "^2.1.17",
     "prop-types": "^15.6.2",
